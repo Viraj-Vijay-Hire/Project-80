@@ -1,0 +1,17 @@
+body {
+    background:linear-gradient(#34daa2 , #55d0d0 ) ;
+}
+#showPara_1,#showPara_2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+#showParagraph_1,#showParagraph_2 {
+    width: 100%;
+    margin: 20px;
+}
